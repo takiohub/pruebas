@@ -20,4 +20,8 @@ public class EjemploGit {
         System.out.println("Fin");
     }
     
+    public void saluda(){
+        System.out.println("Hola");
+    }
+    
 }
