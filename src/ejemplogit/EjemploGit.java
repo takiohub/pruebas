@@ -16,7 +16,7 @@ public class EjemploGit {
      */
     public static void main(String[] args) {
         System.out.println("Comenzamos ya");
-        //System.out.println("Que tal");
+        System.out.println("Que tal");
         System.out.println("Fin");
     }
     
